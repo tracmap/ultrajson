@@ -1,6 +1,7 @@
 
-FORKED FROM http://github.com/esnme/ultrajson to fix https://github.com/esnme/ultrajson/issues/346 on Ubuntu 18.04 which uses Python 2.7.17.
+FORKED FROM http://github.com/esnme/ultrajson to fix https://github.com/esnme/ultrajson/issues/346 on Ubuntu 18.04 which uses Python 2.7.17 as the upstream project is dead.
 
+See https://github.com/tracmap/ultrajson/tree/release/1.35 for patches against the last released v1.35.
 
 UltraJSON
 =============
